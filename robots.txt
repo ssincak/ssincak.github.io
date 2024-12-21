@@ -1,0 +1,6 @@
+Sitemap: http://stefan-s.net/sitemap.xml 
+
+# global
+User-agent: *
+Disallow: /xmlrpc.php
+
